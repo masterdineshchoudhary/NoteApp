@@ -1,6 +1,6 @@
 <footer class="bg-light text-center">
 	<div class="col-auto">
-       <p class="pt-2">Made by Dinesh Choudhary</p>
+       <p class="pt-2">Made by <b>Dinesh Choudhary</b></p>
     </div> 
 
   <!-- Copyright -->
